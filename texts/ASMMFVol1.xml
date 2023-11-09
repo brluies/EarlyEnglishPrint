@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="short">Anglo-Saxon Manuscripts IN MICROFICHE FACSIMILE</title>
+                <title type="main">Anglo-Saxon Manuscripts IN MICROFICHE FACSIMILE </title>
+                <editor>A.N. Doane</editor>
+                <editor>Phillip Pulsiano</editor>
+                <editor>Ronald E. Buckalew</editor>
+                <editor>Carl T. Berkhout</editor>
+                <respStmt>
+                    <resp>Copy edited from OCR</resp>
+                    <name>Luies, Brenda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Center for Medieval and Early Renaissance Studies State University of New York at Binghamton </publisher>
+                <date when="1994">1994</date>
+                <pubPlace>New York, Binghamton</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>203 p. 19 cm.</note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno type="ISBN">0-86698-141-1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title type="main">SONETTI ET CANZONI DI MESSER FRANCESCO PETRARCHA IN VITA DI MADONNA LAVRA.</title>
+                            <title type="short">Il Petrarcha</title>
+                            <docImprint>
+                                Center for Medieval and Early Renaissance Studies   State University of New York at Binghamton      Library of Congress Cataloging-in-Publication Data 
+                        
+  Anglo-Saxon manuscripts in microfiche facsimile / Phillip Pulsiano, general editor; A.N. Doane, executive director ; Ronald E. Buckalew, associate editor ; editorial and advisory board, Carl T. Berkhout ... [et al.] [descriptions by A.N. Doane]. 
+                                
+  p. cm. - (Medieval &amp;amp; renaissance texts &amp;amp; studies; v. 136,) In English with segments in Anglo-Saxon and Latin. Provides descriptions of manuscripts held in various libraries, including the manuscript's history, codicological features, collation, list of contents, notes on special features and problems, and selected bibliography. 
+                                
+ May be used as guide to microfiche collection with the same title. Contents: v. 1. Books of prayers and healing. 
+                                
+                                ISBN 0-86698-141-1 
+                                
+1.  Great  Britain-History-Anglo-Saxon  period,  445-1066- Sources-Manuscripts-Facsimiles-Indexes.  2. Civilization, Anglo­ Saxon-Manuscripts-Facsimiles-Indexes.  3. Manuscripts, English (Old)-Facsimiles-Indexes. I. Pulsiano, Phillip, 1955- . II. Doane, Alger Nicolaus, 1938- . III. Buckalew, Ronald E. IV. Series. [DA150] 
+                                
+                                015'.31-dc20                        94-37257 This book is made to last. It is set in ACaslon,saddle-stitched, and printed on acid-free paper to library specifications. Printed in the United States of America 
+                            </docImprint>
+                            <docEdition>1</docEdition>
+                            <docDate when="1521"/>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <extent>
+                                    <measure unit="pages" quantity="184"/>
+                                    <measure unit="volumes" quantity="1"/>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <p>It is set in ACaslon,saddle-stitched, and printed on acid-free paper to library specifications</p>
+                        </bindingDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+        </front>
+        <body>
+            
+            <head> Anglo-Saxon Manuscripts in Microfiche Facsimile </head>
+            <pb type="preface"/>
+            <fw type="heading">Preface</fw>
+            <p><fw rend="italics">Anglo-Saxon Manuscripts in Microfiche Facsimile</fw> offers students and scholars a fundamental tool in the field of Anglo-Saxon studies. The project aims to produce over the next six years complete microfiche facsimiles of the nearly five hundred manuscripts containing Old English. Each issue or volume will present facsimiles and descriptions of about ten manuscripts prepared by one or more scholars. The facsimiles are in most cases produced from existing film stock provided by the holding libraries. New photography will be limited to those manuscripts not yet photo­ graphed or poorly photographed. Images provided will be up to the standards expected of a good microfilm reproduction. Each description provides in brief compass the manuscript's history, codicological features, a collation, a detailed list of contents, and a selected bibliography, as well as notes on special features and problems. The descriptions are intended to be used with the photographic images to maximize their usefulness to scholars who do not have immediate access to the originals or who may be previously unacquainted with the manuscript and its scholarship. </p>
+            <p>Anglo-Saxon Manuscripts in Microfiche Facsimile offers students and scholars a fundamental tool in the field of Anglo-Saxon studies. The project aims to produce over the next six years complete microfiche facsimiles of the nearly five hundred manuscripts containing Old English. Each issue or volume will present facsimiles and descriptions of about ten manuscripts prepared by one or more scholars. The facsimiles are in most cases produced from existing film stock provided by the holding libraries. New photography will be limited to those manuscripts not yet photo­ graphed or poorly photographed. Images provided will be up to the standards expected of a good microfilm reproduction. Each description provides in brief compass the manuscript's history, codicological features, a collation, a detailed list of contents, and a selected bibliography, as well as notes on special features and problems. The descriptions are intended to be used with the photographic images to maximize their usefulness to scholars who do not have immediate access to the originals or who may be previously unacquainted with the manuscript and its scholarship. </p>
+            <p>Each manuscript is assigned a main catalogue number for this series, which is given before the shelfmark. This catalogue number is concorded with the catalogue numbers of Ker and Gneuss. A comprehensive list of ASM numbers will be issued with the series, together with a concordance-list of Ker numbers. Cumulative indexes will be issued from time to time, and a general index and an index of incipits will be published as the final volume of the series. The manuscript descriptions, after being revised, will also be published as a separate publication towards the conclusion of this project. The editors request that any errors, omissions, or relevant new scholarship be brought to their attention.</p>
+            <pb type="notes"/>
+            <fw type="heading">Notes to Users</fw>
+            <p>The header of each fiche includes the following information, on two lines: (1) assigned catalogue number; city, library, and shelfmark;1 ASM volume and sequence number; fiche number; (2) Ker number, 2 Gneuss 
+                
+                number, 3 and short title or indication of contents. The layout is as follows:</p> 
+               
+                <p>
+                177. London, BL, Cotton Caligula A. vii Ker 137, Gneuss 308 
+               ASM 2.11 1 
+                Heliand </p>
+            <table rows="23" cols="2">
+            <head>The following sigla and abbreviations are used:</head>
+                <row role="data">
+                    <cell role="data"/>
+                    <cell role="data">{  }</cell>
+                    <cell role="data">expansions, e.g., d{e}i</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">[  ]</cell>
+                    <cell role="data">supplied; when blank, used to indicate missing text</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">(  )</cell>
+                    <cell role="data">erasure</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">i</cell>
+                    <cell role="data">line end</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">a, b, etc.</cell>
+                    <cell role="data">indicate columns, e.g., f. 154v/13a-6b</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">" "</cell>
+                    <cell role="data">customary title</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">' '</cell>
+                    <cell role="data">incipit, explicit, gloss</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">F./f.</cell>
+                    <cell role="data">folio</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">Ff./ ff.</cell>
+                    <cell role="data">folios</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">r</cell>
+                    <cell role="data">recto</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">v</cell>
+                    <cell role="data">verso</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">c</cell>
+                    <cell role="data">century, e.g., 15c, 10/11c</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">chap(s).</cell>
+                    <cell role="data">chapter(s)</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">corr.</cell>
+                    <cell role="data">Corrected</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">d.</cell>
+                    <cell role="data">died, e.g., d. 998</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">fl.</cell>
+                    <cell role="data">Floruit</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">boldface</cell>
+                    <cell role="data">used for titles or headings written in manuscripts Anglo-Saxon</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">A-S</cell>
+                    <cell role="data">Anglo-Saxon</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">OE</cell>
+                    <cell role="data">Old English</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">PG</cell>
+                    <cell role="data" rend="italics">Patrologia Graeca</cell>
+                </row>
+                <row role="data">
+                    <cell role="data">PL</cell>
+                    <cell role="data" rend="italics">Patralogica Latina</cell>
+                </row>
+            </table>
+            <p>British Library manuscripts are indicated by the common abbreviation "BL"; for manuscripts in the Bodleian Library the abbreviation "Bodl. Lib." will be used. 
+                
+                N. R. Ker, Catalogue of Manuscripts Containing Anglo-Saxon (Oxford: Clarendon Press, 1957; repr. with supplement 1990). 
+                
+                Helmut Gneuss, •A preliminary list of manuscripts written or owned in England up to 1100," Anglo-Saxon England 9 (1981): 1-60. </p>
+            <p>In cases where Ker's dating of a manuscript is cited, readers should note that dating is indicated by quarter-century intervals; thus, s. x/xi, s. x1, s. x med., s. x1-. A full explanation is given in his Catalogue of Manuscripts 
+                
+                Containing Anglo-Saxon, p. xx. </p>
+            <p>Some descriptions include "Photo Notes" that compare the microform reproduction with the original manuscript, indicating readings visible in the original, but not on the microfiche. In this section, italics are used to indicate words and letters visible in the gutter (i.e., binding margin) of the manuscript but not visible in the reproduction. </p>
+            <fw type="header">177. London, British Library, Cotton Caligula A. vii 
+                
+                "Heliand Manuscript" 
+                
+                [Ker 137, Gneuss 308] </fw>
+            <p>HISTORY: The "Heliand" is an alliterative verse Old Saxon (continental Low German) Gospel harmony in heroic style. This copy was written in England in the second half of the toe. The OE charm for barren land, "Æcerbot," is of the early 11c. Nothing certain is known of the origin of the manuscript, except that it was written in southern England (see Priebsch 1925: 23-27), or of its pre-Cotton whereabouts. Junius made a transcript, which is now Oxford, Bodleian Library, Junius 103. A copy of the "Heliand" made for Hickes (excerpts from which he published in 1703) is now London, British Library, Harley 439. </p>
+            <p>CODICOLOGICAL DESCRIPTION: [i-ii] *iii-*viii + 1-2, 11-175 [+1] 176-178 + [179-180]. Pages trimmed (comers rounded) and gilded, 218 x 136 mm. Writing area 190 x 95 mm. HFHF. 19c leather binding. There are two foliations, neither reflecting accurately the state of the manuscript. The older, in ink, begins on the first page of the "Heliand" with "5." The later foliation, in pencil, dating from 1884 (see the dated note and the handwriting on f. 179r [old 174]), begins with "11," and must count from *iii, plus the four artificial leaves of the mounted pictures (see below). The present description uses the newer foliation. (On ff. 11-13 another foliation, *13-*15, was begun, but abandoned and cancelled.) </p>
+            <p>CODICOLOGICAL DESCRIPTION: [i-ii] *iii-*viii + 1-2, 11-175 [+1] 176-178 + [179-180]. Pages trimmed (comers rounded) and gilded, 218 x 136 mm. Writing area 190 x 95 mm. HFHF. 19c leather binding. There are two foliations, neither reflecting accurately the state of the manuscript. The older, in ink, begins on the first page of the "Heliand" with "5." The later foliation, in pencil, dating from 1884 (see the dated note and the handwriting on f. 179r [old 174]), begins with "11," and must count from *iii, plus the four artificial leaves of the mounted pictures (see below). The present description uses the newer foliation. (On ff. 11-13 another foliation, *13-*15, was begun, but abandoned and cancelled.) </p>
+            <p>The "Heliand," consisting of 5,980 alliterative long lines (imperfect at end), is written out continuously like prose, the text showing many OE words and forms and many Old High German spellings and inflexions. The parchment is somewhat thick and rough though variable. The manuscript is in remarkably good condition (except for some flaking of the color on f. 11r; an early but unoriginal hand has written in light ink in upper right margin QVATVU where the paint had flaked from the colored title). The "Heliand" is pricked and ruled on versos for 24 lines throughout. </p>
+            <p>Written by an A-S scribe imitating continental Caroline minuscle letter forms, probably directly from a Carolingian exemplar, with occasional lapses into Insular forms (see Priebsch 1925: 13-27). The writing is in dark brown to blackish ink, using a thick nib and having a consistent ductus that varies somewhat with the quality of the parchment. The text is divided into numbered sections, probably originating with this manuscript, since continental copies of the "Heliand" are sectioned but not numbered. On f. 11r, a colored rubric on a yellow ground, INCIPIT Q{VATV} | OR EVANGELIV{M}; the Old Saxon text begins with a large decorated "M" and colored capitals. An early modern hand imitat­ ing Caroline script has written above, "Euangelia in lingua Danica" (the same hand that wrote item 1 of table of contents, f. *viii recto). Decorated and colored large initials, similar to those in many 10c English manuscripts (see Wormald 1945), begin sections on ff. 11r, 21v, 35, 36v, 39, 41v, and 43v, but these give way to plainer and uncolored initials (see the somewhat elaborate but uncolored initials on ff. 24r, 46r, 56v, etc.). Priebsch (1925: 39) noticed that the colored large capitals are written over erasures, indicating perhaps that they were a later addition to the design rather than from the exemplar. Frequent color highlights, green, yellow, reddish brown, on small capitals in the text. The title PASSIO DOMINI on f. 132r is elaborately painted in blue, white, pink, and yellow. It appears that no pages of text are missing. The early signature system (apparently by the main scribe, as the first two signatures are colored, like any small capital on these pages), beginning with "A" on the last folio of the first "Heliand" quire, tells against there ever having been a copy of the Old Saxon "Genesis" bound up with this copy of the "Heliand." In the last quire the final three leaves are gone, probably because they were left blank; although the text breaks off in mid-sentence, the scribe seems to consider his work finished since he attempts to space the last word to fill most of the line; probably the exemplar contained no more. The Munich manuscript of the "Heliand" (Staatsbibliothek, cgm. 25) continues for 15 verse lines further but is also incomplete at the end (see BehagheVfaeger 1984: xv--xxii for details of the "Heliand" manuscript tradition). </p>
+            <p>Latin quotations from the Bible are written in the margins offf. 12v and 112v in square A-S minuscule and in black ink like that of main text, possibly by the main scribe reverting to his normal writing style when not imitating the letters of the Carolingian exemplar. A note in an A-S hand, "be sancta marian," is added in brownish ink on three specially ruled lines in the margin off. 17v/3 (Priebsch thinks by the main scribe,
+            <pb n="3"/> <fw type="header">ASM 1.1</fw>
+                Ker thinks by another of the early 11c). </p>
+            <p>The pages containing the OE "Æcerbot" charm are pricked and ruled for 22 lines, but the writing area is about the same as for the "Heliand." The blank half-sheet preceding the charm has the same pricking as the "Heliand"-sheets and is doubtless part of the original book, perhaps one of the three sheets gone from quire XXI. In the table of contents (f. *viii recto) the charm has been added as item 2 by Richard James (17c). Ker (Cat.) dates the charm hand s. xi1. </p>
+            <bibl>
+                
+            </bibl>
+        </body>
+        <back>
+            <!--  [ back matter ...  ] -->
+        </back>
+    </text>
+</TEI>
