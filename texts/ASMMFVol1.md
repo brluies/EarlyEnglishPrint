@@ -1,4 +1,4 @@
 ---
 layout: base
-permalinlk: /ASMMFVol1/
+permalink: /ASMMFVol1/
 ---
